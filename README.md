@@ -1,1 +1,2 @@
-# Data-Analytics
+This analysis suggests that while speed of delivery is important, the cost associated with it can significantly influence consumer behavior, with Free Shipping being major driver of Preferred Shipping.
+Retailers should consider allocating more resources in this location, and  capitalize on high demand, adjust their inventory and marketing strategies accordingly, while also exploring their presence in other Areas.
